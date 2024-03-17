@@ -1,0 +1,1 @@
+{"version": "1.0.0", "params": {"aqi_out_of_door": "{\"description\": \"良\", \"pm10\": 111, \"o3\": 119, \"so2\": 2, \"co\": 0.5, \"aqi\": 81, \"no2\": 22, \"pm25\": 55}", "win_state": false, "humidity": 0, "aqi_in_the_room": "{\"humi\": 34, \"CO\": 0.06124542, \"boom\": 0.0, \"temp\": 23}", "openning_time": -1, "temperature": 0}}
